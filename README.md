@@ -1,2 +1,2 @@
-# FF4x0: Create & Automate
-This repository was made to accomodate the FF4x0: Create & Automate modpack in the FF4x0 branch of modpacks. Right now, nothing is here. In the future, who knows?
+# FF4x0: Flyte 
+is the 2nd entry in the FF4x0 series of modpacks, throwing you into a tougher environment when it comes to modpacks, with the main mods featured being TerraFirmaCraft, Immersive Engineering and Create. All 3 mods are meshed together wonderfully utilizing KubeJS, to experience a short yet sweet progression through the technological ages, ranging from stone-knapping and pottery to establishing off-world bases on foreign planets. On-top of it all, there are plenty of other mods that have been manually integrated, including but not limited to performance improving mods (Embeddium, Canary), Hand-made custom structures compatible with TerraFirmaCraft specifically made to be used with the modpack, Ears, E4MC, FTB Backups 2, Artifacts and many more.
