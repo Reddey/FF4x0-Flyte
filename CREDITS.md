@@ -51,5 +51,5 @@
 * James_Seibel, cola98765, coolGi__, leonardoamato, Tomlee92502 and RanMewo for their [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons) mod
 * AlexNijjar, Scarecrow01, DreamersThistle, fizziy17, MrSirSquishy, kekle6, Facu, aPurpleShrimp, ThatGravyBoat, MsRandom1, CodexAdrian and terrariumearth for their [Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra) mod
 * [kannax for artwork and general graphics design](https://twitter.com/kannaxcs)
-* [Rafael95 for his help in bug testing, construction and generally being the 2nd in command when it came to development](https://www.youtube.com/@Rafael95554)
+* [Rafael for his help in bug testing, construction and generally being the 2nd in command when it came to development](https://www.youtube.com/@Rafael95554)
 ### Make sure you show your support to everyone involved in the creation of the modpack. Personally I just ask that you don't repost my KubeJS scripts, textures or data made custom for the modpack. 
