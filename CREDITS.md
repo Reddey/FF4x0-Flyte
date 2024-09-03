@@ -1,4 +1,5 @@
 # This section contains credits and direct links to EVERY mod used by the modpack, as without the mod creators below, this modpack would not be possible. They deserve all the support possible.
+## By downloading the modpack, you have already done your due and contributed to the Mod Developers, and I personally thank you for it. Mod Developers deserve all the support and praise they can get, as without them projects such as these would not have been possible. If you wish to check out each mod individually, they are linked below for easy access. Be sure to leave your gratitude!
 * xaero96 for their [Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map?page=51) and [Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) mods
 * sk89q, wizjany_, me4502 and octylFractal for their [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) mod
 * Tiviacz1337 for their [Travelers Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack) mod
