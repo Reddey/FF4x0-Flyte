@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: Technical / Gameplay Report
 about: Report a bug found in the modpack, please only report gameplay and technical
   issues in this form. If your issue is of another nature, please resort to the other
   forms or create a custom one.
