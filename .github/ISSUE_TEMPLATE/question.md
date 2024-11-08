@@ -2,7 +2,7 @@
 name: Question
 about: If you have any question about the modpack of any kind, PLEASE use this form!
 title: "[QUESTION]"
-labels: ''
+labels: question
 assignees: Reddey
 
 ---
