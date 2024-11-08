@@ -1,6 +1,8 @@
 ---
 name: Bug Report
-about: Report a bug you found in the modpack, whether it be something simple or complex.
+about: Report a bug found in the modpack, please only report gameplay and technical
+  issues in this form. If your issue is of another nature, please resort to the other
+  forms or create a custom one.
 title: "[BUG]"
 labels: bug
 assignees: Reddey
